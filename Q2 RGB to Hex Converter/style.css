@@ -1,0 +1,38 @@
+.container {
+  margin:20px;
+}
+
+
+.input-group{
+  max-width: 200px;
+  margin: 0 auto; 
+   margin-left: 0px;
+}
+
+
+
+#r{
+width: 60px;
+height: 35px;
+}
+#g{
+width: 60px;
+height: 35px;
+}
+#b{
+width: 60px;
+height: 35px;
+}
+
+[class*="col"] {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    height: 3.625rem;
+    
+   
+}
+
+#background{
+  width: 120px;
+  height: 120px;
+}
